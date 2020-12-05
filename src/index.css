@@ -52,6 +52,10 @@ ul {
     0 17px 50px 0 rgba(0, 0, 0, 0.19);
 }
 
+.button2:focus {
+  outline: none
+}
+
 .square {
   background: #4d606e;
   border: 5px solid #ff2e63;
